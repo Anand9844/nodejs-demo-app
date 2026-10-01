@@ -60,3 +60,4 @@ Do not put passwords or access tokens directly in `main.yml`.
 
 ## Expected Result
 A successful push to `main` should show both jobs passing in the GitHub Actions tab, and the Docker image should appear in Docker Hub.
+DevOps task 1 completed using GitHub Actions.
